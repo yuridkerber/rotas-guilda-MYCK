@@ -3,3 +3,4 @@
 yuri duarte - (função)
 miguel giovannini - (função) 
 camila rios - (função)
+karen marroco - (função)
