@@ -25,8 +25,9 @@ Além do propósito acadêmico, o projeto será desenvolvido seguindo boas prát
 |---|---|
 | **Yuri Duarte** | A definir |
 | **Miguel Giovannini** | A definir |
-| **Camila Rios** | A definir |
+| **Matheus Basso** | A definir |
 | **Karen Marroco** | A definir |
+| **Cleberson Felex** | A definir |
 
 > As funções serão definidas conforme o planejamento e a divisão de responsabilidades do projeto.
 
