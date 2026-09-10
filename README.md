@@ -1,4 +1,4 @@
-# Rotas Guilda MYCK
+# Rotas Guilda MYMKC
 
 > Projeto acadêmico desenvolvido na disciplina de **Engenharia de Software I**, com foco na aplicação prática de conceitos de desenvolvimento de software, organização de equipe e utilização de ferramentas de versionamento.
 
